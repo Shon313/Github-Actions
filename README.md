@@ -1,2 +1,2 @@
 # Github-Actions
-Understanding of Github actions and azure devops
+Understanding of Github actions and azure DevOps
